@@ -18,7 +18,6 @@
 }
 // x CAN be used here
 
-
 // Function Scope
 // JavaScript has function scope: Each function creates a new scope.
 // Variables defined inside a function are not accessible (visible) from outside the function.
