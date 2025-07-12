@@ -1,10 +1,16 @@
-console.log(Math.max(10,20,1244,13441,34,34,3543,54,32431))
-console.log(Math.min(10,20,23,3,4,475,44))
-console.log(Math.round(10.6),":",Math.round(10.2))
-console.log(Math.floor(10.1))
-console.log(Math.ceil(10.1))
-console.log(Math.abs(-10),":",Math.abs(10))
-console.log(Math.PI)
-console.log(Math.random()*5)
-console.log(Math.sqrt(16))
+// console.log(Math.max(10,20,1244,13441,34,34,3543,54,32431))
+// console.log(Math.min(10,20,23,3,4,475,44))
+// console.log(Math.round(10.6),":",Math.round(10.2))
+// console.log(Math.floor(10.1))
+// console.log(Math.ceil(10.1))
+// console.log(Math.abs(-10),":",Math.abs(10))
+// console.log(Math.PI)
 // console.log(Math.random()*5)
+// console.log(Math.sqrt(16))
+// console.log(Math.pow(2,10))
+
+
+        // --------------
+
+let curr = new Date();
+console.log(curr)
