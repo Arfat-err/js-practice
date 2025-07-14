@@ -13,3 +13,9 @@ body{
     /* align-items: center; */
     text-align: center;
 }
+
+P {
+    color: white;
+    background-color: red;
+    height: 40px;
+}
