@@ -27,3 +27,5 @@ console.log(sessionStorage.length)
 console.log(sessionStorage.key(1))
 console.log(sessionStorage.getItem("fName") + " " + sessionStorage.getItem("lName"));
 // sessionStorage.clear()
+
+console.log("Arfat Ansari")
